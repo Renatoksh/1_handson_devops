@@ -1,8 +1,4 @@
 # 1_handson_devops
-# Motivation
-#
-# Introduction
-#
 # Diagram
 #
 ![](./img/Diagram.PNG)
