@@ -306,6 +306,12 @@ pipeline {
 ![](./img/Webhook_configuration.PNG)
 #
 ![](./img/Webhook_configuration1.PNG)
+
 #
 ![](./img/Declarative_Checkout_SCM_Jenkins.PNG)
+
+[![Watch the video](./img/Jenkins_Declarative.mp4) (https://github.com/Renatoksh/1_handson_devops/assets/95065208/14ce5771-d820-420b-8ae2-eacc276fc2e4)
+
+
+
 
