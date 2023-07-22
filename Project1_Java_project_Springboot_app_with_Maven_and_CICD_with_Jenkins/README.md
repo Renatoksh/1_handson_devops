@@ -85,4 +85,6 @@ java -jar spring-petclinic-2.3.1.BUILD-SNAPSHOT.jar --server.port=8082
 ![](./img/running_jar_file.PNG)
 ![](./img/Spring_webpage.PNG)
 #
+![](./img/build_triggers.PNG)
+### Every minute the job will be execcuted
 https://github.com/Renatoksh/1_handson_devops/assets/95065208/6489bb15-32e3-468f-a8aa-e1d4de6318c2
